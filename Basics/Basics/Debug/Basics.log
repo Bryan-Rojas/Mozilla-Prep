@@ -1,0 +1,3 @@
+﻿  Basics.cpp
+c:\users\bryan\onedrive\github\mozilla-prep\basics\basics\basics.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Basics.vcxproj -> C:\Users\Bryan\OneDrive\Github\Mozilla-Prep\Basics\Debug\Basics.exe
